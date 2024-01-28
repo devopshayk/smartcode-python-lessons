@@ -2,7 +2,7 @@
 # second = float(input('Write second num:' ))
 # makeres = first + second
 
-# print(makeres * 2)
+# print(int(makeres * 2))
 
 # --------------> task 1
 
@@ -11,7 +11,7 @@
 # square = float(input('Write num: '))
 # makeres = square * square
 
-# print(makeres)
+# print(int(makeres))
 
 # --------------> task 2
 

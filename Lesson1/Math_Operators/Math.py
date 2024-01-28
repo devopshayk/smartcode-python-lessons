@@ -26,7 +26,7 @@
 # amount3 = float(input('Write your cash '))
 # balance += amount3
 
-# print('Your cart balance is ', balance)
+# print('Your cart balance is ', int(balance))
 
 # --------------> task 4
 
