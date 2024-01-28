@@ -43,3 +43,11 @@
 
 # --------------> task 6
 
+
+
+# number = float(input("Enter a number: "))
+# divisibleNum = number % 400 == 0
+
+# print(divisibleNum)
+
+# --------------> task 8
