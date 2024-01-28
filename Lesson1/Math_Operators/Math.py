@@ -9,10 +9,12 @@
 # --------------> task 2
 
 
+
 # print('9' * 7) #Variant 1
 # print(('99' * 3) + '9') #Variant 2
 
 # --------------> task 3
+
 
 
 # balance = 0
@@ -29,6 +31,7 @@
 # print('Your cart balance is ', int(balance))
 
 # --------------> task 4
+
 
 
 # my_Age = 14
