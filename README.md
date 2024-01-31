@@ -21,3 +21,5 @@ Python-ը ծրագրավորման ամենահայտնի լեզուն է աշխ
 ## Դասեր
 
 - [Դաս 1](https://github.com/devopshayk/smartcode-python-lessons/tree/main/Lesson1)
+
+- [Դաս 2](https://github.com/devopshayk/smartcode-python-lessons/tree/main/Lesson2)
