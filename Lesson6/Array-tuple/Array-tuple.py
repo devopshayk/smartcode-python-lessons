@@ -30,3 +30,22 @@
 # print("The largest text is:", largest_text)
 
 # --------------> task 3
+
+
+
+# list1 = [1, 2, 3, 4, 5]
+# list2 = [6, 7, 8, 9, 10, 3]
+
+# have_common_member = False
+
+# for item in list1:
+#     if item in list2:
+#         have_common_member = True
+#         break
+
+# if have_common_member:
+#     print("The lists have at least one common member.")
+# else:
+#     print("The lists do not have any common members.")
+
+# --------------> task 4
